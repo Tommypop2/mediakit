@@ -1,5 +1,11 @@
 # @solid-mediakit/og
 
+## 0.2.6
+
+### Patch Changes
+
+- [`8a0bf81`](https://github.com/solidjs-community/mediakit/commit/8a0bf81899a52dbcb19520e2b53de64562fbe173) Thanks [@Tommypop2](https://github.com/Tommypop2)! - Removed unnecessary `raw=true` from `DynamicImage` url
+
 ## 0.2.5
 
 ### Patch Changes
