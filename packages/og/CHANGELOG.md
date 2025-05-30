@@ -1,5 +1,11 @@
 # @solid-mediakit/og
 
+## 0.4.1
+
+### Patch Changes
+
+- [#159](https://github.com/solidjs-community/mediakit/pull/159) [`f0a6ae1`](https://github.com/solidjs-community/mediakit/commit/f0a6ae17bafcf0574408252c90a67c3c967a98d2) Thanks [@Tommypop2](https://github.com/Tommypop2)! - Fix insanely annoying bug (satori would complain that the elements needed flex, even when there was only a single element)
+
 ## 0.4.0
 
 ### Minor Changes
